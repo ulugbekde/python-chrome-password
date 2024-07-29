@@ -1,1 +1,4 @@
-
+pysqlite3
+pywin32
+pycryptodome
+requests
